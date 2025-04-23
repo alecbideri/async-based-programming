@@ -1,4 +1,4 @@
-new Promise((resolve, reject) => {
+let promise =  new Promise((resolve, reject) => {
     resolve('Operation successfully!');
     resolve('Operation successfully!');
 })
